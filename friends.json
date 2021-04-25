@@ -1,0 +1,8 @@
+[
+  {"name": "Gabriel", "age": "21", "hobby": "Drinking Coffee", "phone": "555312546", "address": "Zapopan"},
+  {"name": "Yeo", "age": "20", "hobby": "Programming", "phone": "555312546", "address": "Hermosillo"},
+  {"name": "Liz", "age": "22", "hobby": "IDK", "phone": "555312546", "address": "Zapopan"},
+  {"name": "Julio", "age": "23", "hobby": "Sleeping", "phone": "555312546", "address": "Zapopan"},
+  {"name": "Leo", "age": "19", "hobby": "Lol", "phone": "555312546", "address": "Zapopan"},
+  {"name": "Cesar", "age": "15", "hobby": "Lol", "phone": "555312546", "address": "Vallarta"}
+]
